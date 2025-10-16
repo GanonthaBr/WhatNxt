@@ -1,4 +1,4 @@
-# Project: WhatNext (Formerly Plaid)
+# Project: WhatNxt (Formerly Plaid)
 
 **Tagline:** Your future, guided by Tartans.
 
@@ -12,7 +12,7 @@ Currently, guidance comes from informal chats with senior students, alumni, and 
 
 ### The Solution
 
-WhatNext is a unified digital platform designed to help students discover, plan, and connect throughout their journey. It centralizes the scattered wisdom of the community by providing a **Transition Guide** for a smooth arrival in Kigali, a **Degree & Course Planner** that showcases anonymized academic paths from successful upperclassmen, and an AI Assistant to offer personalized guidance based on student interests and the proven success patterns of past Tartans.
+WhatNxt is a unified digital platform designed to help students discover, plan, and connect throughout their journey. It centralizes the scattered wisdom of the community by providing a **Transition Guide** for a smooth arrival in Kigali, a **Degree & Course Planner** that showcases anonymized academic paths from successful upperclassmen, and an AI Assistant to offer personalized guidance based on student interests and the proven success patterns of past Tartans.
 
 ---
 
@@ -30,7 +30,7 @@ WhatNext is a unified digital platform designed to help students discover, plan,
 
 ### Hackathon MVP (Minimum Viable Product) Features ✅
 
-The goal for the hackathon is to build a high-fidelity prototype that demonstrates the core value of WhatNext. We will use a **frontend-only application with static JSON data** to simulate the experience.
+The goal for the hackathon is to build a high-fidelity prototype that demonstrates the core value of WhatNxt. We will use a **frontend-only application with static JSON data** to simulate the experience.
 
 **1. Transition Guide (Static Page)**
     * **Description:** A simple, well-designed page with essential tips for new students arriving in Kigali.

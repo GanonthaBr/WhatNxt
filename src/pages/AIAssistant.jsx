@@ -16,7 +16,7 @@ const AIAssistant = () => {
   useEffect(() => {
     // Initial greeting
     const greeting = {
-      text: "Hi! I'm your WhatNext AI Assistant, powered by insights from CMU Africa alumni. 🎓\n\nI can help you with:\n• Career planning and course selection\n• Internship and job search strategies\n• Academic success tips\n• Networking advice\n• And much more!\n\nChoose a question below or type your own!",
+      text: "Hi! I'm your WhatNxt AI Assistant, powered by insights from CMU Africa alumni. 🎓\n\nI can help you with:\n• Career planning and course selection\n• Internship and job search strategies\n• Academic success tips\n• Networking advice\n• And much more!\n\nChoose a question below or type your own!",
       isUser: false,
       timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
     };

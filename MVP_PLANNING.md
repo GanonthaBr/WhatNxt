@@ -1,4 +1,4 @@
-# WhatNext - MVP Development Plan
+# WhatNxt - MVP Development Plan
 
 ## Project Overview
 **Platform:** CMU Africa student guidance platform  
@@ -210,7 +210,7 @@
 
 ### **Act 2: The Solution Tour (3-4 minutes)**
 
-1. **Landing Page** → Introduce WhatNext
+1. **Landing Page** → Introduce WhatNxt
 2. **Transition Guide** → "New students start here"
 3. **Alumni Connect** → "Meet successful Tartans"
    - Search for "AI" concentration
@@ -230,7 +230,7 @@
 ## File Structure (Final)
 
 ```
-whatnext/
+WhatNxt/
 ├── public/
 │   └── assets/
 ├── src/

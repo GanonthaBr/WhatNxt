@@ -1,4 +1,4 @@
-# WhatNext - MVP
+# WhatNxt - MVP
 
 **Tagline:** Your future, guided by Tartans.
 

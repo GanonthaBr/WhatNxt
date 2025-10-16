@@ -85,7 +85,7 @@ const Home = () => {
             <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-6 leading-tight">
               Welcome to{' '}
               <span className="bg-gradient-to-r from-white to-red-200 bg-clip-text text-transparent">
-                WhatNext
+                WhatNxt
               </span>
             </h1>
             
