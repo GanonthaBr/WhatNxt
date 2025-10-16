@@ -3,105 +3,110 @@
     "id": "plan-001",
     "alumniId": "alumni-001",
     "alumniName": "Sarah Nakato",
-    "concentration": "Artificial Intelligence",
+    "concentration": "MSEAI (Engineering AI)",
     "focusArea": "Machine Learning & Natural Language Processing",
     "careerOutcome": "Machine Learning Engineer at Google",
-    "overview": "This path emphasizes deep learning, NLP, and practical ML engineering skills. It balances theory with hands-on implementation.",
+    "overview": "This 2-year, 4-semester MSEAI path emphasizes deep learning, NLP, and practical ML engineering skills for production systems. It balances theory with hands-on implementation.",
     "semesters": [
       {
-        "semester": "Fall 2019",
+        "semester": "Fall 2021 (Semester 1)",
         "courses": [
           {
-            "code": "15-112",
-            "name": "Fundamentals of Programming",
+            "code": "11-785",
+            "name": "Introduction to Deep Learning",
             "credits": 12,
-            "rationale": "Essential foundation for all CS work. Learned Python and core programming concepts."
+            "rationale": "Core course for MSEAI. Hands-on experience with neural networks, CNNs, and RNNs using PyTorch."
           },
           {
-            "code": "21-127",
-            "name": "Concepts of Mathematics",
+            "code": "10-601",
+            "name": "Machine Learning",
             "credits": 12,
-            "rationale": "Mathematical reasoning is crucial for AI. This built my proof-writing skills."
+            "rationale": "Foundational ML course covering supervised and unsupervised learning, essential for all AI work."
           },
           {
-            "code": "76-101",
-            "name": "Interpretation and Argument",
-            "credits": 9,
-            "rationale": "Gen ed requirement. Improved my written communication - important for documentation."
+            "code": "11-637",
+            "name": "Foundations of Computational Data Science",
+            "credits": 12,
+            "rationale": "Data processing and analysis fundamentals. Critical for working with real-world ML datasets."
           }
         ]
       },
       {
-        "semester": "Spring 2020",
+        "semester": "Spring 2022 (Semester 2)",
         "courses": [
           {
-            "code": "15-122",
-            "name": "Principles of Imperative Computation",
+            "code": "11-611",
+            "name": "Natural Language Processing",
             "credits": 12,
-            "rationale": "Deepened understanding of algorithms and data structures - foundation for ML algorithms."
+            "rationale": "Specialized in NLP for my career path. Covered transformers, BERT, and GPT architectures."
           },
           {
-            "code": "21-241",
-            "name": "Matrices and Linear Transformations",
-            "credits": 11,
-            "rationale": "Linear algebra is the backbone of machine learning. Critical for understanding neural networks."
+            "code": "10-605",
+            "name": "Machine Learning with Large Datasets",
+            "credits": 12,
+            "rationale": "Learning to scale ML to production-sized datasets. Essential for industry work at Google."
           },
           {
-            "code": "36-200",
-            "name": "Reasoning with Data",
-            "credits": 9,
-            "rationale": "Statistics fundamentals for understanding ML models and experimentation."
+            "code": "11-685",
+            "name": "Introduction to Computer Vision",
+            "credits": 12,
+            "rationale": "Broadened my AI knowledge. Useful for multi-modal ML systems."
           }
         ]
       },
       {
-        "semester": "Fall 2020",
+        "semester": "Fall 2022 (Semester 3)",
         "courses": [
           {
-            "code": "15-213",
-            "name": "Introduction to Computer Systems",
+            "code": "11-777",
+            "name": "Advanced Multimodal Machine Learning",
             "credits": 12,
-            "rationale": "Understanding hardware/software interface helps optimize ML code."
+            "rationale": "Cutting-edge research course. Worked on vision-language models, relevant for modern AI systems."
           },
           {
-            "code": "15-251",
-            "name": "Great Ideas in Theoretical Computer Science",
+            "code": "17-691",
+            "name": "Machine Learning in Production",
             "credits": 12,
-            "rationale": "Developed computational thinking and complexity analysis skills."
+            "rationale": "Learned MLOps, model deployment, and monitoring. Critical for ML engineering roles."
           },
           {
-            "code": "21-256",
-            "name": "Multivariate Analysis",
-            "credits": 11,
-            "rationale": "Calculus for multivariable optimization - key for gradient descent in ML."
+            "code": "11-642",
+            "name": "Search Engines",
+            "credits": 12,
+            "rationale": "Directly relevant to my Google role. Information retrieval and ranking algorithms."
           }
         ]
       },
       {
-        "semester": "Spring 2021",
+        "semester": "Spring 2023 (Semester 4)",
         "courses": [
           {
-            "code": "10-301",
-            "name": "Introduction to Machine Learning",
-            "credits": 12,
-            "rationale": "THE foundational ML course. Covered supervised/unsupervised learning, theory and practice."
+            "code": "11-799",
+            "name": "Master's Thesis Research",
+            "credits": 24,
+            "rationale": "Completed thesis on transformer architectures for low-resource languages. Published at ACL conference."
           },
           {
-            "code": "15-281",
-            "name": "Artificial Intelligence: Representation and Problem Solving",
+            "code": "17-614",
+            "name": "API Design and Implementation",
             "credits": 12,
-            "rationale": "Broader AI concepts including search, logic, and planning. Good complement to ML."
-          },
-          {
-            "code": "36-401",
-            "name": "Modern Regression",
-            "credits": 9,
-            "rationale": "Statistical modeling techniques that underpin many ML algorithms."
+            "rationale": "Practical software engineering for ML systems. Helped me build production-ready ML APIs."
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": "plan-002",
+    "alumniId": "alumni-002",
+    "alumniName": "James Omondi",
+    "concentration": "MSIT (Information Technology)",
+    "focusArea": "Distributed Systems & Cloud Infrastructure",
+    "careerOutcome": "Senior Software Engineer at Microsoft",
+    "overview": "This 2-year, 4-semester MSIT path focuses on software architecture, distributed systems, and cloud computing. Perfect for building scalable enterprise systems.",
+    "semesters": [
       {
-        "semester": "Fall 2021",
+        "semester": "Fall 2020 (Semester 1)",
         "courses": [
           {
             "code": "11-785",

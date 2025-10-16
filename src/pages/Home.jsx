@@ -5,8 +5,11 @@ const Home = () => {
         <h1 className="text-5xl font-bold text-gray-900 mb-4">
           Welcome to WhatNext
         </h1>
-        <p className="text-xl text-gray-600 mb-8">
+        <p className="text-xl text-gray-600 mb-4">
           Your future, guided by Tartans.
+        </p>
+        <p className="text-md text-gray-500 max-w-2xl mx-auto">
+          Navigate your 2-year Master's journey at CMU Africa with insights from alumni across MSIT, MSEAI, and MSECE programs.
         </p>
       </div>
 
