@@ -1,0 +1,581 @@
+[
+  {
+    "id": "plan-001",
+    "alumniId": "alumni-001",
+    "alumniName": "Sarah Nakato",
+    "concentration": "Artificial Intelligence",
+    "focusArea": "Machine Learning & Natural Language Processing",
+    "careerOutcome": "Machine Learning Engineer at Google",
+    "overview": "This path emphasizes deep learning, NLP, and practical ML engineering skills. It balances theory with hands-on implementation.",
+    "semesters": [
+      {
+        "semester": "Fall 2019",
+        "courses": [
+          {
+            "code": "15-112",
+            "name": "Fundamentals of Programming",
+            "credits": 12,
+            "rationale": "Essential foundation for all CS work. Learned Python and core programming concepts."
+          },
+          {
+            "code": "21-127",
+            "name": "Concepts of Mathematics",
+            "credits": 12,
+            "rationale": "Mathematical reasoning is crucial for AI. This built my proof-writing skills."
+          },
+          {
+            "code": "76-101",
+            "name": "Interpretation and Argument",
+            "credits": 9,
+            "rationale": "Gen ed requirement. Improved my written communication - important for documentation."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2020",
+        "courses": [
+          {
+            "code": "15-122",
+            "name": "Principles of Imperative Computation",
+            "credits": 12,
+            "rationale": "Deepened understanding of algorithms and data structures - foundation for ML algorithms."
+          },
+          {
+            "code": "21-241",
+            "name": "Matrices and Linear Transformations",
+            "credits": 11,
+            "rationale": "Linear algebra is the backbone of machine learning. Critical for understanding neural networks."
+          },
+          {
+            "code": "36-200",
+            "name": "Reasoning with Data",
+            "credits": 9,
+            "rationale": "Statistics fundamentals for understanding ML models and experimentation."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2020",
+        "courses": [
+          {
+            "code": "15-213",
+            "name": "Introduction to Computer Systems",
+            "credits": 12,
+            "rationale": "Understanding hardware/software interface helps optimize ML code."
+          },
+          {
+            "code": "15-251",
+            "name": "Great Ideas in Theoretical Computer Science",
+            "credits": 12,
+            "rationale": "Developed computational thinking and complexity analysis skills."
+          },
+          {
+            "code": "21-256",
+            "name": "Multivariate Analysis",
+            "credits": 11,
+            "rationale": "Calculus for multivariable optimization - key for gradient descent in ML."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2021",
+        "courses": [
+          {
+            "code": "10-301",
+            "name": "Introduction to Machine Learning",
+            "credits": 12,
+            "rationale": "THE foundational ML course. Covered supervised/unsupervised learning, theory and practice."
+          },
+          {
+            "code": "15-281",
+            "name": "Artificial Intelligence: Representation and Problem Solving",
+            "credits": 12,
+            "rationale": "Broader AI concepts including search, logic, and planning. Good complement to ML."
+          },
+          {
+            "code": "36-401",
+            "name": "Modern Regression",
+            "credits": 9,
+            "rationale": "Statistical modeling techniques that underpin many ML algorithms."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2021",
+        "courses": [
+          {
+            "code": "11-785",
+            "name": "Introduction to Deep Learning",
+            "credits": 12,
+            "rationale": "Hands-on deep learning with PyTorch. Built CNNs, RNNs, and transformers. Most practical course."
+          },
+          {
+            "code": "11-411",
+            "name": "Natural Language Processing",
+            "credits": 12,
+            "rationale": "My specialty area. Learned text processing, language models, and NLP applications."
+          },
+          {
+            "code": "15-440",
+            "name": "Distributed Systems",
+            "credits": 12,
+            "rationale": "Understanding distributed computing is important for training large models at scale."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2022",
+        "courses": [
+          {
+            "code": "11-611",
+            "name": "Natural Language Processing (Advanced)",
+            "credits": 12,
+            "rationale": "Deep dive into transformer architectures and modern NLP. Final project became my thesis."
+          },
+          {
+            "code": "10-701",
+            "name": "Machine Learning (PhD Level)",
+            "credits": 12,
+            "rationale": "Advanced ML theory. Challenging but gave me deeper understanding of learning algorithms."
+          },
+          {
+            "code": "15-462",
+            "name": "Computer Graphics",
+            "credits": 12,
+            "rationale": "Elective for fun. Interesting to see visual applications of linear algebra."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2022",
+        "courses": [
+          {
+            "code": "11-777",
+            "name": "Multimodal Machine Learning",
+            "credits": 12,
+            "rationale": "Cutting-edge research area. Learned to work with vision + language models."
+          },
+          {
+            "code": "15-618",
+            "name": "Parallel Computer Architecture and Programming",
+            "credits": 12,
+            "rationale": "GPU programming and parallel algorithms - essential for training neural networks efficiently."
+          },
+          {
+            "code": "05-499",
+            "name": "Special Topics: ML Ethics",
+            "credits": 9,
+            "rationale": "Important to understand societal impact of AI systems."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2023",
+        "courses": [
+          {
+            "code": "11-891",
+            "name": "Capstone Project",
+            "credits": 12,
+            "rationale": "Built an NLP application for low-resource African languages. Great portfolio piece."
+          },
+          {
+            "code": "15-445",
+            "name": "Database Systems",
+            "credits": 12,
+            "rationale": "Understanding data storage and retrieval is crucial for ML engineering roles."
+          },
+          {
+            "code": "80-180",
+            "name": "Nature of Language",
+            "credits": 9,
+            "rationale": "Linguistics perspective on language. Helped me understand NLP from a different angle."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan-002",
+    "alumniId": "alumni-002",
+    "alumniName": "James Omondi",
+    "concentration": "Software Engineering",
+    "focusArea": "Distributed Systems & Cloud Infrastructure",
+    "careerOutcome": "Senior Software Engineer at Microsoft",
+    "overview": "This pathway focuses on building scalable, reliable systems. Heavy emphasis on systems programming, distributed computing, and cloud technologies.",
+    "semesters": [
+      {
+        "semester": "Fall 2018",
+        "courses": [
+          {
+            "code": "15-112",
+            "name": "Fundamentals of Programming",
+            "credits": 12,
+            "rationale": "Started with Python. Good foundation for software engineering principles."
+          },
+          {
+            "code": "21-127",
+            "name": "Concepts of Mathematics",
+            "credits": 12,
+            "rationale": "Mathematical foundations for CS. Proof techniques are useful for correctness arguments."
+          },
+          {
+            "code": "76-101",
+            "name": "Interpretation and Argument",
+            "credits": 9,
+            "rationale": "Gen ed. Improved technical writing skills."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2019",
+        "courses": [
+          {
+            "code": "15-122",
+            "name": "Principles of Imperative Computation",
+            "credits": 12,
+            "rationale": "Learned C and low-level programming. Essential for systems work."
+          },
+          {
+            "code": "15-150",
+            "name": "Principles of Functional Programming",
+            "credits": 12,
+            "rationale": "Functional paradigm changed how I think about code. Useful for writing clean, testable code."
+          },
+          {
+            "code": "21-241",
+            "name": "Matrices and Linear Transformations",
+            "credits": 11,
+            "rationale": "Math requirement. Linear algebra shows up in computer graphics and optimization."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2019",
+        "courses": [
+          {
+            "code": "15-213",
+            "name": "Introduction to Computer Systems",
+            "credits": 12,
+            "rationale": "THE most important course for systems engineering. Memory, processes, networks - everything."
+          },
+          {
+            "code": "15-251",
+            "name": "Great Ideas in Theoretical Computer Science",
+            "credits": 12,
+            "rationale": "Algorithm analysis and complexity theory. Important for making design decisions."
+          },
+          {
+            "code": "36-225",
+            "name": "Introduction to Probability Theory",
+            "credits": 10,
+            "rationale": "Probability is key for understanding distributed systems behavior and failure modes."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2020",
+        "courses": [
+          {
+            "code": "15-410",
+            "name": "Operating System Design and Implementation",
+            "credits": 15,
+            "rationale": "Built an OS kernel. Extremely challenging but incredibly rewarding. Best course I took."
+          },
+          {
+            "code": "15-411",
+            "name": "Compiler Design",
+            "credits": 15,
+            "rationale": "Understanding compilers deepened my knowledge of programming languages and optimization."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2020",
+        "courses": [
+          {
+            "code": "15-440",
+            "name": "Distributed Systems",
+            "credits": 12,
+            "rationale": "Core course for my career. Learned about consensus, replication, consistency models."
+          },
+          {
+            "code": "15-441",
+            "name": "Computer Networks",
+            "credits": 12,
+            "rationale": "Understanding networks is crucial for distributed systems. Protocols, TCP/IP, routing."
+          },
+          {
+            "code": "15-445",
+            "name": "Database Systems",
+            "credits": 12,
+            "rationale": "Databases are the backbone of most systems. Learned about transactions, indexing, query optimization."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2021",
+        "courses": [
+          {
+            "code": "15-640",
+            "name": "Distributed Systems (Graduate)",
+            "credits": 12,
+            "rationale": "Advanced topics in distributed systems. Research papers on Paxos, Raft, distributed transactions."
+          },
+          {
+            "code": "14-740",
+            "name": "Fundamentals of Computer Networks",
+            "credits": 12,
+            "rationale": "Graduate-level networking. Deep dive into network protocols and performance."
+          },
+          {
+            "code": "17-396",
+            "name": "Special Topics: Cloud Computing",
+            "credits": 12,
+            "rationale": "Hands-on with AWS, Azure, Kubernetes. Directly applicable to industry work."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2021",
+        "courses": [
+          {
+            "code": "15-618",
+            "name": "Parallel Computer Architecture and Programming",
+            "credits": 12,
+            "rationale": "Parallel programming, GPU computing, performance optimization. Critical for scalable systems."
+          },
+          {
+            "code": "15-719",
+            "name": "Advanced Cloud Computing",
+            "credits": 12,
+            "rationale": "Research-level cloud computing. Studied large-scale system design patterns."
+          },
+          {
+            "code": "17-313",
+            "name": "Foundations of Software Engineering",
+            "credits": 12,
+            "rationale": "Software development processes, testing, CI/CD. Important professional skills."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2022",
+        "courses": [
+          {
+            "code": "15-891",
+            "name": "Capstone: Scalable Microservices Platform",
+            "credits": 12,
+            "rationale": "Built a complete microservices platform with service mesh, monitoring, auto-scaling."
+          },
+          {
+            "code": "15-446",
+            "name": "Machine Learning Systems",
+            "credits": 12,
+            "rationale": "How to build infrastructure for ML workloads. Interesting intersection of my interests."
+          },
+          {
+            "code": "08-360",
+            "name": "Projects in Economics and Data Science",
+            "credits": 9,
+            "rationale": "Understanding business context helps in system design decisions."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plan-003",
+    "alumniName": "Amina Hassan",
+    "alumniId": "alumni-003",
+    "concentration": "Computer Science",
+    "focusArea": "Software Development & Product Management",
+    "careerOutcome": "Product Manager at Andela",
+    "overview": "A balanced path combining technical CS skills with business, design, and communication. Prepared for transition from engineering to product management.",
+    "semesters": [
+      {
+        "semester": "Fall 2020",
+        "courses": [
+          {
+            "code": "15-112",
+            "name": "Fundamentals of Programming",
+            "credits": 12,
+            "rationale": "Essential programming foundation. Python is great for quick prototyping."
+          },
+          {
+            "code": "21-127",
+            "name": "Concepts of Mathematics",
+            "credits": 12,
+            "rationale": "Math requirement. Logical thinking helps in product reasoning."
+          },
+          {
+            "code": "76-107",
+            "name": "Writing about Data",
+            "credits": 9,
+            "rationale": "Learning to communicate data insights clearly - crucial for PM work."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2021",
+        "courses": [
+          {
+            "code": "15-122",
+            "name": "Principles of Imperative Computation",
+            "credits": 12,
+            "rationale": "Core CS algorithms and data structures. Important to understand technical constraints."
+          },
+          {
+            "code": "05-391",
+            "name": "Designing Human-Centered Software",
+            "credits": 12,
+            "rationale": "Introduction to HCI. Learned user research methods and usability testing."
+          },
+          {
+            "code": "36-200",
+            "name": "Reasoning with Data",
+            "credits": 9,
+            "rationale": "Statistics for data-driven decision making. Essential PM skill."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2021",
+        "courses": [
+          {
+            "code": "15-213",
+            "name": "Introduction to Computer Systems",
+            "credits": 12,
+            "rationale": "Systems fundamentals. Helps understand technical tradeoffs in product decisions."
+          },
+          {
+            "code": "15-214",
+            "name": "Principles of Software Construction",
+            "credits": 12,
+            "rationale": "Software design patterns, testing, APIs. Great for working with engineering teams."
+          },
+          {
+            "code": "05-410",
+            "name": "User-Centered Research and Evaluation",
+            "credits": 12,
+            "rationale": "Deep dive into user research. Learned to conduct interviews and analyze qualitative data."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2022",
+        "courses": [
+          {
+            "code": "15-251",
+            "name": "Great Ideas in Theoretical Computer Science",
+            "credits": 12,
+            "rationale": "Computational thinking and problem-solving frameworks."
+          },
+          {
+            "code": "05-430",
+            "name": "Programming Usable Interfaces",
+            "credits": 12,
+            "rationale": "Built several UIs. Understanding frontend development helps in product discussions."
+          },
+          {
+            "code": "73-102",
+            "name": "Principles of Microeconomics",
+            "credits": 9,
+            "rationale": "Business fundamentals. Understanding markets and incentives is key for product strategy."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2022",
+        "courses": [
+          {
+            "code": "15-415",
+            "name": "Database Applications",
+            "credits": 12,
+            "rationale": "Practical database work. Important for data-driven products."
+          },
+          {
+            "code": "05-499",
+            "name": "Special Topics: Product Management",
+            "credits": 12,
+            "rationale": "Guest lectures from PMs at tech companies. Learned product frameworks and methodologies."
+          },
+          {
+            "code": "70-371",
+            "name": "Marketing I",
+            "credits": 9,
+            "rationale": "Understanding marketing helps in go-to-market strategy and positioning."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2023",
+        "courses": [
+          {
+            "code": "15-356",
+            "name": "Introduction to Cryptography",
+            "credits": 12,
+            "rationale": "Security awareness is important for any product manager dealing with user data."
+          },
+          {
+            "code": "17-313",
+            "name": "Foundations of Software Engineering",
+            "credits": 12,
+            "rationale": "Agile, scrum, sprint planning. Direct overlap with PM responsibilities."
+          },
+          {
+            "code": "36-401",
+            "name": "Modern Regression",
+            "credits": 9,
+            "rationale": "Data analysis for A/B testing and experimentation."
+          }
+        ]
+      },
+      {
+        "semester": "Fall 2023",
+        "courses": [
+          {
+            "code": "05-499",
+            "name": "Special Topics: Startup Entrepreneurship",
+            "credits": 12,
+            "rationale": "Startup mindset, MVP development, pitching. Worked on a product idea with a team."
+          },
+          {
+            "code": "15-437",
+            "name": "Web Application Development",
+            "credits": 12,
+            "rationale": "Full-stack web dev. Can prototype product ideas independently."
+          },
+          {
+            "code": "88-120",
+            "name": "Science and Science Fiction",
+            "credits": 9,
+            "rationale": "Fun elective. Thinking about future technology trends."
+          }
+        ]
+      },
+      {
+        "semester": "Spring 2024",
+        "courses": [
+          {
+            "code": "15-891",
+            "name": "Capstone: Mobile App for Local Artisans",
+            "credits": 12,
+            "rationale": "Led a team to build a marketplace app. Acted as both PM and developer."
+          },
+          {
+            "code": "05-652",
+            "name": "Interaction Design Studio",
+            "credits": 12,
+            "rationale": "End-to-end design process. From user research to high-fidelity prototypes."
+          },
+          {
+            "code": "70-455",
+            "name": "Business Strategy",
+            "credits": 9,
+            "rationale": "Strategic thinking for competitive positioning and growth."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,249 @@
+{
+  "title": "Transition Guide: Starting Your Journey at CMU Africa",
+  "introduction": "Welcome to Kigali! This guide will help you navigate your first weeks at CMU Africa and settle into life in Rwanda's capital city.",
+  "sections": [
+    {
+      "id": "housing",
+      "title": "Housing & Accommodation",
+      "icon": "🏠",
+      "content": [
+        {
+          "subtitle": "On-Campus Housing",
+          "description": "CMU Africa provides on-campus accommodation for first-year students. Rooms are furnished with a bed, desk, wardrobe, and high-speed internet.",
+          "tips": [
+            "Apply for housing as soon as you receive your acceptance letter",
+            "On-campus housing includes utilities and internet",
+            "Shared kitchen facilities are available on each floor",
+            "24/7 security and maintenance support"
+          ]
+        },
+        {
+          "subtitle": "Off-Campus Options",
+          "description": "Many upperclassmen choose to live off-campus for more independence and often lower costs.",
+          "tips": [
+            "Popular neighborhoods: Kimihurura, Kacyiru, Nyarutarama (close to campus)",
+            "Expected rent: $200-600/month depending on location and amenities",
+            "Always visit in person before signing a lease",
+            "Negotiate! Prices are often flexible, especially for longer leases",
+            "Utilities may or may not be included - clarify before signing"
+          ],
+          "resources": [
+            "Facebook groups: 'Housing in Kigali', 'CMU Africa Housing'",
+            "Local agents: Real Estate Rwanda, Pam Golding Properties",
+            "Connect with current students for roommate opportunities"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "setup",
+      "title": "Essential Setup",
+      "icon": "📋",
+      "content": [
+        {
+          "subtitle": "Banking",
+          "description": "Setting up a local bank account makes life much easier.",
+          "tips": [
+            "Recommended banks: Bank of Kigali, I&M Bank, Equity Bank (student-friendly)",
+            "Required documents: Passport, student ID, proof of address (housing contract)",
+            "Mobile banking (MTN Mobile Money, Airtel Money) is widely used - link it to your account",
+            "ATMs are widely available but may have withdrawal limits",
+            "Many places accept card payments, but carry some cash for smaller vendors"
+          ]
+        },
+        {
+          "subtitle": "Phone & Internet",
+          "description": "Stay connected from day one.",
+          "tips": [
+            "Get a local SIM card immediately at the airport or any MTN/Airtel shop",
+            "Recommended: MTN (better coverage) or Airtel (competitive rates)",
+            "Cost: ~$2-5 for SIM, ~$5-20/month for data plans",
+            "Campus has free WiFi, but having mobile data is essential",
+            "WhatsApp is the primary communication tool - everyone uses it"
+          ]
+        },
+        {
+          "subtitle": "Transportation",
+          "description": "Getting around Kigali is easy and affordable.",
+          "tips": [
+            "Moto-taxis (motorcycles): Fastest, $0.50-2 for most trips within city",
+            "Tap-Tap (ride-hailing app): Like Uber, safe and convenient",
+            "Yego Moto: App-based moto service with helmets provided",
+            "Public buses: Very cheap ($0.20-0.50) but can be crowded",
+            "Walking: Kigali is safe and walkable during the day",
+            "Campus shuttle: Free transport to/from main shopping areas on weekends"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-life",
+      "title": "Daily Life in Kigali",
+      "icon": "🌍",
+      "content": [
+        {
+          "subtitle": "Food & Dining",
+          "tips": [
+            "Campus cafeteria: Affordable meals ($2-5), various options",
+            "Local restaurants: Try brochette, ugali, isombe (local dishes)",
+            "Supermarkets: Simba, Nakumatt, Carrefour for groceries",
+            "Delivery apps: Jumia Food, Glovo for restaurant delivery",
+            "Street food is generally safe and delicious - try the sambusas!",
+            "Vegetarian/vegan options are available but may require asking",
+            "Dining out: Budget $5-10 for local places, $10-25 for international restaurants"
+          ]
+        },
+        {
+          "subtitle": "Safety & Health",
+          "tips": [
+            "Kigali is one of the safest capitals in Africa - low crime rate",
+            "However, stay aware of your surroundings, especially at night",
+            "Emergency numbers: Police 112, Ambulance 912",
+            "Campus clinic: Free basic healthcare for students",
+            "King Faisal Hospital: Recommended for serious medical issues",
+            "Health insurance is mandatory - make sure you're covered",
+            "Tap water is safe to drink in most areas",
+            "Malaria is rare in Kigali but take precautions if traveling outside the city"
+          ]
+        },
+        {
+          "subtitle": "Culture & Etiquette",
+          "tips": [
+            "Kinyarwanda is the local language, but English is widely spoken",
+            "Learning basic Kinyarwanda phrases is appreciated: Mwaramutse (good morning), Murakoze (thank you)",
+            "Rwandans are generally friendly and helpful - don't hesitate to ask for help",
+            "Dress modestly, especially in rural areas",
+            "Plastic bags are banned - bring reusable bags for shopping",
+            "Umuganda: Community cleaning on last Saturday of each month (9am-11am) - participation encouraged",
+            "Smoking in public places is prohibited",
+            "Respect is important - greet elders and use polite language"
+          ]
+        },
+        {
+          "subtitle": "Things to Do",
+          "tips": [
+            "Kimironko Market: Experience local market culture",
+            "Inema Arts Center: Contemporary Rwandan art",
+            "Kigali Genocide Memorial: Important historical site",
+            "Heaven Restaurant: Great views of the city",
+            "Nyamirambo Women's Center: Cultural tours and shopping",
+            "Lake Kivu: Weekend trip to relax by the beach (3 hours away)",
+            "Volcanoes National Park: Gorilla trekking (expensive but unforgettable)",
+            "Nightlife: Question Coffee, The Hut, Republic Lounge are popular spots"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "campus-resources",
+      "title": "Campus Resources",
+      "icon": "🎓",
+      "content": [
+        {
+          "subtitle": "Academic Support",
+          "tips": [
+            "Office hours: Professors are very accessible - use them!",
+            "Peer tutoring: Free tutoring for core courses",
+            "Study groups: Join or form study groups early",
+            "Library: 24/7 access with great study spaces",
+            "Academic advisors: Meet regularly to stay on track"
+          ]
+        },
+        {
+          "subtitle": "Career Services",
+          "tips": [
+            "Career counseling available for resume review, interview prep",
+            "Internship support: Help with finding summer opportunities",
+            "Industry connections: Regular tech talks and networking events",
+            "Alumni network: Active and willing to mentor"
+          ]
+        },
+        {
+          "subtitle": "Student Life",
+          "tips": [
+            "Student clubs: Robotics, AI, entrepreneurship, sports, and more",
+            "Gym facilities: Free access to fitness center on campus",
+            "Counseling services: Free mental health support",
+            "Events: Hackathons, career fairs, cultural nights throughout the year",
+            "Student government: Get involved in campus decision-making"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "money-matters",
+      "title": "Money & Budgeting",
+      "icon": "💰",
+      "content": [
+        {
+          "subtitle": "Cost of Living",
+          "description": "Kigali is relatively affordable compared to many capital cities.",
+          "expenses": [
+            {
+              "category": "Housing",
+              "cost": "$200-600/month (off-campus)",
+              "notes": "On-campus included in tuition"
+            },
+            {
+              "category": "Food",
+              "cost": "$150-300/month",
+              "notes": "Depends on cooking vs. eating out"
+            },
+            {
+              "category": "Transportation",
+              "cost": "$30-80/month",
+              "notes": "Mostly motos and occasional taxis"
+            },
+            {
+              "category": "Phone & Internet",
+              "cost": "$10-30/month",
+              "notes": "Campus WiFi is free"
+            },
+            {
+              "category": "Entertainment",
+              "cost": "$50-150/month",
+              "notes": "Movies, restaurants, weekend trips"
+            },
+            {
+              "category": "Miscellaneous",
+              "cost": "$50-100/month",
+              "notes": "Personal items, emergencies"
+            }
+          ],
+          "tips": [
+            "Total monthly budget (excluding housing): $300-700 depending on lifestyle",
+            "Part-time work: Limited on-campus opportunities (TA, research assistant)",
+            "Scholarships and financial aid available - talk to student services"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first-week",
+      "title": "Your First Week Checklist",
+      "icon": "✅",
+      "content": [
+        {
+          "subtitle": "Week 1 To-Do List",
+          "tasks": [
+            "Attend orientation and get your student ID",
+            "Set up your university email and Canvas account",
+            "Get a local SIM card and phone number",
+            "Open a bank account",
+            "Register for courses",
+            "Explore campus and locate your classrooms",
+            "Meet your academic advisor",
+            "Join student WhatsApp groups",
+            "Buy textbooks or find online resources",
+            "Learn the bus routes and transportation options",
+            "Find the nearest supermarket and ATM",
+            "Exchange contact info with classmates",
+            "Set up your room/apartment",
+            "Explore Kigali during the weekend!"
+          ]
+        }
+      ]
+    }
+  ],
+  "conclusion": "Remember, everyone goes through an adjustment period. Don't hesitate to reach out to current students, faculty, or staff if you need help. Welcome to the CMU Africa family! 🎉"
+}

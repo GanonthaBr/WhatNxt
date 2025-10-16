@@ -1,0 +1,154 @@
+[
+  {
+    "id": "alumni-001",
+    "name": "Sarah Nakato",
+    "graduationYear": 2023,
+    "concentration": "Artificial Intelligence",
+    "currentRole": "Machine Learning Engineer",
+    "company": "Google",
+    "location": "Zurich, Switzerland",
+    "profileImage": "https://ui-avatars.com/api/?name=Sarah+Nakato&background=c41e3a&color=fff&size=200",
+    "bio": "After graduating from CMU Africa with a focus on AI, I joined Google's ML team where I work on improving search algorithms. My journey started with a strong foundation in algorithms and deep learning courses, which prepared me for the technical interviews. The transition from Kigali to Zurich was challenging but rewarding.",
+    "journey": "Started with general CS courses, then specialized in AI during sophomore year. Completed internships at local startups in Kigali before landing a Google internship in my senior year, which led to a full-time offer.",
+    "degreePlanId": "plan-001",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/sarah-nakato",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Machine Learning", "Natural Language Processing", "Python", "TensorFlow"]
+  },
+  {
+    "id": "alumni-002",
+    "name": "James Omondi",
+    "graduationYear": 2022,
+    "concentration": "Software Engineering",
+    "currentRole": "Senior Software Engineer",
+    "company": "Microsoft",
+    "location": "Nairobi, Kenya",
+    "profileImage": "https://ui-avatars.com/api/?name=James+Omondi&background=c41e3a&color=fff&size=200",
+    "bio": "I'm now leading the development of cloud infrastructure solutions at Microsoft's African Innovation Center. My CMU Africa education gave me both the technical depth and practical experience needed to excel in distributed systems. I chose to stay in Africa to contribute to the growing tech ecosystem.",
+    "journey": "Focused heavily on systems courses and distributed computing. Did summer research at CMU Africa on scalable systems, which became the foundation for my master's thesis. Joined Microsoft immediately after graduation.",
+    "degreePlanId": "plan-002",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/james-omondi",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Distributed Systems", "Cloud Computing", "Kubernetes", "Go", "Azure"]
+  },
+  {
+    "id": "alumni-003",
+    "name": "Amina Hassan",
+    "graduationYear": 2024,
+    "concentration": "Computer Science",
+    "currentRole": "Product Manager",
+    "company": "Andela",
+    "location": "Kigali, Rwanda",
+    "profileImage": "https://ui-avatars.com/api/?name=Amina+Hassan&background=c41e3a&color=fff&size=200",
+    "bio": "I transitioned from software engineering to product management after realizing my passion for solving user problems and business strategy. CMU Africa's collaborative projects taught me how to work across disciplines, which is crucial in PM roles.",
+    "journey": "Started as a CS major with software engineering focus, but took electives in HCI and business. Participated in hackathons and startup competitions which sparked my interest in product. Did a PM internship at a fintech startup in my junior year.",
+    "degreePlanId": "plan-003",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/amina-hassan",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Product Management", "User Research", "Agile", "Software Development", "Strategy"]
+  },
+  {
+    "id": "alumni-004",
+    "name": "David Kamau",
+    "graduationYear": 2023,
+    "concentration": "Electrical & Computer Engineering",
+    "currentRole": "Robotics Engineer",
+    "company": "Boston Dynamics",
+    "location": "Boston, USA",
+    "profileImage": "https://ui-avatars.com/api/?name=David+Kamau&background=c41e3a&color=fff&size=200",
+    "bio": "Working on cutting-edge robotics at Boston Dynamics. My ECE background from CMU Africa, combined with advanced coursework in control systems and AI, prepared me perfectly for this role. The rigorous curriculum and hands-on projects were invaluable.",
+    "journey": "Took a balanced approach between hardware and software courses. Worked on robotics research projects with CMU Africa faculty. Applied to grad school but got a direct industry offer that was too good to pass up.",
+    "degreePlanId": null,
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/david-kamau",
+      "email": "Available upon request",
+      "openToMentoring": false
+    },
+    "expertise": ["Robotics", "Control Systems", "Computer Vision", "C++", "ROS"]
+  },
+  {
+    "id": "alumni-005",
+    "name": "Fatima Diallo",
+    "graduationYear": 2022,
+    "concentration": "Information Technology",
+    "currentRole": "Cybersecurity Analyst",
+    "company": "Kaspersky",
+    "location": "Remote (Based in Dakar, Senegal)",
+    "profileImage": "https://ui-avatars.com/api/?name=Fatima+Diallo&background=c41e3a&color=fff&size=200",
+    "bio": "Specializing in threat detection and incident response at Kaspersky. CMU Africa's security courses and capture-the-flag competitions gave me the practical skills needed in cybersecurity. The collaborative learning environment helped me develop problem-solving skills essential for security work.",
+    "journey": "Became interested in cybersecurity after taking an intro security course sophomore year. Joined the security club, participated in CTF competitions, and did summer internships focused on security. Got certified in ethical hacking before graduation.",
+    "degreePlanId": null,
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/fatima-diallo",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Cybersecurity", "Penetration Testing", "Network Security", "Incident Response", "Python"]
+  },
+  {
+    "id": "alumni-006",
+    "name": "Michael Banda",
+    "graduationYear": 2021,
+    "concentration": "Artificial Intelligence",
+    "currentRole": "Founder & CEO",
+    "company": "AgriTech Solutions (Startup)",
+    "location": "Lusaka, Zambia",
+    "profileImage": "https://ui-avatars.com/api/?name=Michael+Banda&background=c41e3a&color=fff&size=200",
+    "bio": "Founded an AI-powered agritech startup that helps smallholder farmers optimize crop yields using machine learning and satellite imagery. CMU Africa's entrepreneurship ecosystem and technical education gave me the confidence to start my own company right after graduation.",
+    "journey": "Combined AI courses with business electives. Worked on my startup idea as a capstone project. Participated in startup incubators in Kigali. Raised seed funding in final semester and launched immediately after graduation.",
+    "degreePlanId": "plan-001",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/michael-banda",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Machine Learning", "Computer Vision", "Entrepreneurship", "Product Development", "Fundraising"]
+  },
+  {
+    "id": "alumni-007",
+    "name": "Grace Mwangi",
+    "graduationYear": 2024,
+    "concentration": "Software Engineering",
+    "currentRole": "Full Stack Developer",
+    "company": "Stripe",
+    "location": "Dublin, Ireland",
+    "profileImage": "https://ui-avatars.com/api/?name=Grace+Mwangi&background=c41e3a&color=fff&size=200",
+    "bio": "Building payment infrastructure for the internet at Stripe. My software engineering training at CMU Africa emphasized both theory and practice, which has been crucial in understanding complex distributed systems at scale.",
+    "journey": "Focused on full-stack development and took courses in databases, web systems, and distributed computing. Did three internships during summers - two at local companies and one at Stripe, which led to my full-time offer.",
+    "degreePlanId": "plan-002",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/grace-mwangi",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Full Stack Development", "React", "Node.js", "PostgreSQL", "Ruby"]
+  },
+  {
+    "id": "alumni-008",
+    "name": "Ibrahim Nkurunziza",
+    "graduationYear": 2023,
+    "concentration": "Computer Science",
+    "currentRole": "Data Scientist",
+    "company": "World Bank",
+    "location": "Washington D.C., USA",
+    "profileImage": "https://ui-avatars.com/api/?name=Ibrahim+Nkurunziza&background=c41e3a&color=fff&size=200",
+    "bio": "Using data science to inform policy decisions on sustainable development in Africa. My CS degree with a focus on data analytics prepared me for this unique role at the intersection of technology and international development.",
+    "journey": "Combined CS fundamentals with statistics and economics electives. Did research on data-driven development with CMU Africa faculty. Interned at the World Bank through a fellowship program, which opened doors for a permanent position.",
+    "degreePlanId": "plan-003",
+    "contactPreferences": {
+      "linkedin": "https://linkedin.com/in/ibrahim-nkurunziza",
+      "email": "Available upon request",
+      "openToMentoring": true
+    },
+    "expertise": ["Data Science", "Statistical Analysis", "Python", "R", "Policy Analysis"]
+  }
+]
