@@ -33,11 +33,48 @@ const TransitionGuide = () => {
 
   return (
     <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-gradient-to-r from-red-600 to-red-700 text-white py-12">
-        <div className="container mx-auto px-4">
-          <h1 className="text-4xl font-bold mb-3">{guideData.title}</h1>
-          <p className="text-lg text-red-100 max-w-3xl">{guideData.introduction}</p>
+      {/* Banner Section */}
+      <div className="relative bg-gradient-to-br from-red-700 via-red-800 to-red-900 text-white py-16 md:py-20 overflow-hidden">
+        <div className="absolute inset-0 overflow-hidden opacity-10">
+          <div className="absolute top-0 right-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse delay-700"></div>
+        </div>
+
+        <div className="container mx-auto px-4 relative z-10">
+          <div className="max-w-4xl">
+            <div className="inline-block mb-4 px-4 py-2 bg-white bg-opacity-10 backdrop-blur-sm rounded-full text-sm font-semibold">
+              🚀 Start Strong
+            </div>
+            <h1 className="text-4xl md:text-6xl font-bold mb-4">{guideData.title}</h1>
+            <p className="text-xl md:text-2xl text-red-100 mb-6 leading-relaxed">
+              {guideData.introduction}
+            </p>
+            <div className="flex flex-wrap gap-4 text-sm">
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">🏠</span>
+                <span>Housing Tips</span>
+              </div>
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">📋</span>
+                <span>Essential Setup</span>
+              </div>
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">🌍</span>
+                <span>Daily Life</span>
+              </div>
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">🎓</span>
+                <span>Campus Resources</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* Wave Divider */}
+        <div className="absolute bottom-0 left-0 right-0">
+          <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-auto">
+            <path d="M0 80L60 73.3C120 66.7 240 53.3 360 46.7C480 40 600 40 720 43.3C840 46.7 960 53.3 1080 56.7C1200 60 1320 60 1380 60L1440 60V80H1380C1320 80 1200 80 1080 80C960 80 840 80 720 80C600 80 480 80 360 80C240 80 120 80 60 80H0Z" fill="#f9fafb"/>
+          </svg>
         </div>
       </div>
 

@@ -109,40 +109,62 @@ const AIAssistant = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-gradient-to-r from-red-800 to-red-900 text-white py-8">
-        <div className="container mx-auto px-4">
-          <div className="flex items-center justify-between">
-            <div>
-              <h1 className="text-3xl font-bold mb-2">AI Guidance Assistant</h1>
-              <p className="text-red-100">
-                Get personalized advice powered by alumni insights
+    <div className="min-h-screen bg-gray-50 flex flex-col">
+      {/* Banner Section */}
+      <div className="relative bg-gradient-to-br from-gray-800 via-red-900 to-black text-white py-16 md:py-20 overflow-hidden">
+        <div className="absolute inset-0 overflow-hidden opacity-10">
+          <div className="absolute top-0 right-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse"></div>
+          <div className="absolute bottom-0 left-0 w-96 h-96 bg-white rounded-full blur-3xl animate-pulse delay-700"></div>
+        </div>
+
+        <div className="container mx-auto px-4 relative z-10">
+          <div className="max-w-4xl">
+            <div className="inline-block mb-4 px-4 py-2 bg-white bg-opacity-10 backdrop-blur-sm rounded-full text-sm font-semibold">
+              🤖 Smart Guidance
+            </div>
+            <h1 className="text-4xl md:text-6xl font-bold mb-4">AI Assistant</h1>
+            <p className="text-xl md:text-2xl text-gray-300 mb-6 leading-relaxed">
+              Get instant, personalized answers powered by insights from real CMU Africa alumni experiences. Ask anything about courses, careers, internships, and student life.
+            </p>
+            
+            <div className="bg-white bg-opacity-10 backdrop-blur-md border border-white border-opacity-20 rounded-xl px-6 py-4 mb-6">
+              <p className="flex items-start text-sm">
+                <svg className="h-5 w-5 mr-3 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                  <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clipRule="evenodd" />
+                </svg>
+                <span>
+                  <strong>Demo Mode:</strong> This is a prototype chatbot with pre-programmed responses. 
+                  A full AI implementation would use real machine learning models trained on alumni insights.
+                </span>
               </p>
             </div>
-            <div className="hidden md:flex items-center space-x-2 bg-white bg-opacity-20 rounded-full px-4 py-2">
-              <div className="w-2 h-2 bg-white rounded-full animate-pulse"></div>
-              <span className="text-sm font-medium">Demo Mode</span>
+
+            <div className="flex flex-wrap gap-4 text-sm">
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">💬</span>
+                <span>Instant Answers</span>
+              </div>
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">🎯</span>
+                <span>Personalized Advice</span>
+              </div>
+              <div className="flex items-center space-x-2 bg-white bg-opacity-10 backdrop-blur-sm px-4 py-2 rounded-full">
+                <span className="text-2xl">✨</span>
+                <span>Alumni Insights</span>
+              </div>
             </div>
           </div>
         </div>
-      </div>
 
-      {/* Demo Notice */}
-      <div className="container mx-auto px-4 py-4">
-        <div className="bg-amber-50 border border-amber-200 rounded-lg p-4 flex items-start">
-          <svg className="h-5 w-5 text-amber-600 mr-3 mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+        {/* Wave Divider */}
+        <div className="absolute bottom-0 left-0 right-0">
+          <svg viewBox="0 0 1440 80" fill="none" xmlns="http://www.w3.org/2000/svg" className="w-full h-auto">
+            <path d="M0 80L60 73.3C120 66.7 240 53.3 360 46.7C480 40 600 40 720 43.3C840 46.7 960 53.3 1080 56.7C1200 60 1320 60 1380 60L1440 60V80H1380C1320 80 1200 80 1080 80C960 80 840 80 720 80C600 80 480 80 360 80C240 80 120 80 60 80H0Z" fill="#f9fafb"/>
           </svg>
-          <div>
-            <p className="text-sm font-semibold text-amber-900 mb-1">Demo Version</p>
-            <p className="text-sm text-amber-800">
-              This is a prototype with pre-programmed responses based on real alumni insights. The full version will use advanced AI to answer any question!
-            </p>
-          </div>
         </div>
       </div>
 
+      {/* Chat Container */}
       <div className="container mx-auto px-4 pb-8">
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
           {/* Chat Area */}
