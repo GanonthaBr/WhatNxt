@@ -7,16 +7,7 @@
       "title": "Housing & Accommodation",
       "icon": "🏠",
       "content": [
-        {
-          "subtitle": "On-Campus Housing",
-          "description": "CMU Africa provides on-campus accommodation for first-year students. Rooms are furnished with a bed, desk, wardrobe, and high-speed internet.",
-          "tips": [
-            "Apply for housing as soon as you receive your acceptance letter",
-            "On-campus housing includes utilities and internet",
-            "Shared kitchen facilities are available on each floor",
-            "24/7 security and maintenance support"
-          ]
-        },
+       
         {
           "subtitle": "Off-Campus Options",
           "description": "Many upperclassmen choose to live off-campus for more independence and often lower costs.",
