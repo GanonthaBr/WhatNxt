@@ -9,7 +9,7 @@ const DegreePlanView = ({ plan, alumni }) => {
   return (
     <div className="bg-white rounded-lg shadow-lg overflow-hidden">
       {/* Header */}
-      <div className="bg-gradient-to-r from-red-600 to-red-700 text-white p-8">
+      <div className="bg-gradient-to-r from-red-800 to-red-900 text-white p-8">
         <div className="max-w-5xl mx-auto">
           <div className="flex items-start justify-between mb-4">
             <div className="flex-1">
@@ -24,20 +24,23 @@ const DegreePlanView = ({ plan, alumni }) => {
           </div>
 
           {alumni && (
-            <div className="flex items-center space-x-4 bg-white bg-opacity-10 rounded-lg p-4">
+            <div className="flex items-center space-x-4 bg-white bg-opacity-10 backdrop-blur-sm rounded-lg p-4 border border-white border-opacity-20">
               <img
                 src={alumni.profileImage}
                 alt={alumni.name}
                 className="w-12 h-12 rounded-full border-2 border-white"
               />
               <div className="flex-1">
-                <p className="text-sm text-red-100">This path led to:</p>
-                <p className="font-semibold">{plan.careerOutcome}</p>
+                <p className="text-sm text-white font-medium mb-1">This path led to:</p>
+                <p className="font-bold text-white text-lg">{plan.careerOutcome}</p>
                 <Link
                   to="/alumni"
-                  className="text-sm text-red-100 hover:text-white underline"
+                  className="text-sm text-white hover:text-gray-200 underline inline-flex items-center mt-1"
                 >
-                  View {alumni.name}'s profile →
+                  View {alumni.name}'s profile
+                  <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                  </svg>
                 </Link>
               </div>
             </div>
