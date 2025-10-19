@@ -24,18 +24,18 @@ const DegreePlanView = ({ plan, alumni }) => {
           </div>
 
           {alumni && (
-            <div className="flex items-center space-x-4 bg-white bg-opacity-10 backdrop-blur-sm rounded-lg p-4 border border-white border-opacity-20">
+            <div className="flex items-center space-x-4 bg-white rounded-lg p-4 shadow-md">
               <img
                 src={alumni.profileImage}
                 alt={alumni.name}
-                className="w-12 h-12 rounded-full border-2 border-white"
+                className="w-12 h-12 rounded-full border-2 border-red-800"
               />
               <div className="flex-1">
-                <p className="text-sm text-white font-medium mb-1">This path led to:</p>
-                <p className="font-bold text-white text-lg">{plan.careerOutcome}</p>
+                <p className="text-sm text-gray-600 font-medium mb-1">This path led to:</p>
+                <p className="font-bold text-gray-900 text-lg">{plan.careerOutcome}</p>
                 <Link
                   to="/alumni"
-                  className="text-sm text-white hover:text-gray-200 underline inline-flex items-center mt-1"
+                  className="text-sm text-red-800 hover:text-red-900 underline inline-flex items-center mt-1 font-medium"
                 >
                   View {alumni.name}'s profile
                   <svg className="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
